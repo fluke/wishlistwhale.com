@@ -5,7 +5,7 @@ url: '/help'
 layout: home
 image:
   path: '/assets/img/Banner.png'
-  alt: Restock Rocket notifies customers when products are back in stock
+  alt: Wishlist Rocket notifies customers when products are back in stock
 ---
 <h1 class="page-heading">Help Center<br/></h1>
 {% for category in site.categories %}

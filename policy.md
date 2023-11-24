@@ -5,11 +5,11 @@ url: '/policy'
 layout: home
 image:
   path: '/assets/img/Banner.png'
-  alt: Restock Rocket notifies customers when products are back in stock
+  alt: Wishlist Rocket notifies customers when products are back in stock
 ---
 
 <h1 class="page-heading">Privacy Policy<br/></h1>
-**Restock Rocket** ("us", "we", or "our") operates the "Restock Rocket" Shopify application, "Filemonk" Shopify application & the restockrocket.io  website (the "Service").
+**Wishlist Rocket** ("us", "we", or "our") operates the "Wishlist Rocket" Shopify application, "Filemonk" Shopify application & the wishlistwhale.com  website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 We will not use or share your information with anyone except as described in this Privacy Policy.

@@ -1,13 +1,13 @@
-title: Restock Rocket
-author: Restock Rocket
-email: support@restockrocket.io
+title: Wishlist Rocket
+author: Wishlist Rocket
+email: support@wishlistwhale.com
 description: >
-  With Restock Rocket, add a 'Notify me when available' button to your store & customers can subscribe for back in stock + restock alerts to out of stock products
+  With Wishlist Rocket, add a 'Add to wishlist' button to your store & customers can add items to their wishlists
 image:
   path: '/assets/img/Banner.png'
-  alt: Restock Rocket notifies customers when products are back in stock
+  alt: Wishlist Rocket allows customers to add items to their wishlists
 baseurl: ''
-url: 'https://restockrocket.io'
+url: 'https://wishlistwhale.com'
 header_pages:
   - index.md
   - help.md
