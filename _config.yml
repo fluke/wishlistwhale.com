@@ -1,0 +1,32 @@
+title: Restock Rocket
+author: Restock Rocket
+email: support@restockrocket.io
+description: >
+  With Restock Rocket, add a 'Notify me when available' button to your store & customers can subscribe for back in stock + restock alerts to out of stock products
+image:
+  path: '/assets/img/Banner.png'
+  alt: Restock Rocket notifies customers when products are back in stock
+baseurl: ''
+url: 'https://restockrocket.io'
+header_pages:
+  - index.md
+  - help.md
+footer_links:
+  about:
+    link: /about.html
+    title: About Us
+  privacy:
+    link: /policy.html
+    title: Privacy Policy
+  terms:
+    link: /terms.html
+    title: Terms & Conditions
+defaults:
+    - scope:
+        path: "assets/img"
+      values:
+        image: true
+theme: minima
+plugins:
+    - jekyll-seo-tag
+    - jekyll-sitemap
